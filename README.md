@@ -19,7 +19,7 @@ const fullStackDeveloper = {
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jfoyarzo&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="jfoyarzo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jfoyarzo&theme=merko&hide_border=false" alt="jfoyarzo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jfoyarzo&theme=merko&hide_border=false" alt="jfoyarzo" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfoyarzo&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="jfoyarzo" /></p>
 
