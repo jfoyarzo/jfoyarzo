@@ -25,5 +25,9 @@ const fullStackDeveloper = {
 
 ![](https://github-profile-trophy.vercel.app/?username=jfoyarzo&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
+## ☕ If you like my work:
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jfoyarzo) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=jfoyarzo&icon=5&color=3)](https://visitcount.itsvg.in)
+
