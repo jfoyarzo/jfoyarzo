@@ -4,7 +4,7 @@ const fullStackDeveloper = {
   name: "Felipe Oyarzo",
   located_in: "Puerto Montt, Chile",
   main_stack: [JavaScript, Nodejs, Ruby, Rails, React, PostgreSQL],
-  likes: ["Tech", "Videogames", "Photography", "🌳Nature & Animals🦉"],
+  likes: ["Tech", "Videogames", "Photography", "🌳Nature & Animals🦝"],
   currently_learning: [Typescript, NextJS, React Native]
 };
 ```
