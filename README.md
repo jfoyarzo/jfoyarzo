@@ -2,10 +2,9 @@
 ```javascript
 const fullStackDeveloper = {
   name: "Felipe Oyarzo",
-  located_in: "Puerto Montt, Chile",
-  main_stack: [JavaScript, Nodejs, Ruby, Rails, React, PostgreSQL],
-  likes: ["Tech", "Videogames", "Photography", "🌳Nature & Animals🦝"],
-  currently_learning: [Typescript, NextJS, React Native]
+  located_in: "Calbuco, Chile",
+  main_stack: ["Ruby on Rails", "JavaScript", "React", "Node", "PostgreSQL"],
+  likes: ["Tech", "Videogames", "Photography", "🌳Nature & Animals🦝"]
 };
 ```
 
